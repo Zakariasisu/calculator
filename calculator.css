@@ -37,7 +37,7 @@ h1{
 #userinput{
     box-sizing: border-box;
     width: 100%;
-    height: 100px;
+    height: 150px;
     padding: 40px 5px;
     text-align: right;
     direction: 1tr; 
